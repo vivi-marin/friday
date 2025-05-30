@@ -1,0 +1,33 @@
+*
+
+body{
+    background-color: #dcf8f4;
+    
+}
+
+.main-title{
+    background-color: aliceblue;
+    color: #bcb7b7 ;
+    padding: 16px;
+}
+
+
+
+.main-content{
+    margin: 16px auto;
+    background-color:#bcb7b7 ;
+    max-width: 1824px;
+}
+
+.main-content-title{
+    margin: 16px;
+    padding: 8px;
+    border: 1px solid;#fff ;
+    border-left: 24px solid #333;
+
+}
+
+.main-content-description{
+    margin: 16px;
+    padding: 8px;
+}
