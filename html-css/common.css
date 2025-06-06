@@ -31,3 +31,23 @@ body{
     margin: 16px;
     padding: 8px;
 }
+
+.content-item {
+    margin: 16px;
+    padding: 16px;
+    border: 2px solid #bcb7b7;
+}
+
+.content-item{
+    background-color: #dcf8f4;
+}
+
+.main-content-title {
+    border: bottom 1px solid #333;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+footer {
+    text-align: center;
+}
